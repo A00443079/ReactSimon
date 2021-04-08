@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{B8378C76-E72F-45AE-8E4C-D5AFD72C0639}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ReactAssignment/Program.cs">
+    <Files>
+      <File FileName="ReactAssignment/Startup.cs" Line="66" Column="38" />
+      <File FileName="ReactAssignment/your-app-name/src/App.js" Line="27" Column="63" />
+      <File FileName="ReactAssignment/your-app-name/src/components/mystyles.css" Line="62" Column="19" />
+      <File FileName="ReactAssignment/your-app-name/src/index.js" Line="1" Column="1" />
+      <File FileName="ReactAssignment/your-app-name/src/components/Weather.js" Line="19" Column="22" />
+      <File FileName="ReactAssignment/Program.cs" Line="16" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ReactAssignment" expanded="True">
+            <Node name="ReactAssignment" expanded="True">
+              <Node name="your-app-name" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ReactAssignment PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
